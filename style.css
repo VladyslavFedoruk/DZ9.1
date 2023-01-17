@@ -122,7 +122,6 @@ color: #FFFFFF;
 }
 
 li:hover{
-    animation-name: hide-ul;
     animation-duration: 1s;
     animation-iteration-count: 1;
 }
